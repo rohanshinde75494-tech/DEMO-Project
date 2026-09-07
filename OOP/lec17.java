@@ -3,7 +3,9 @@ public class lec17 {
         car c=new fuelcar();
         c.accelerate();
         c.brake();
-
+       car ec=new ecar();
+       ec.accelerate();
+       ec.brake();
 
     }
 }
@@ -23,5 +25,15 @@ public class lec17 {
         System.out.println("Fuel car is stopping");
         }
     }
+    class ecar extends car{
+         void accelerate(){
+             System.out.println("Electric car car is accelerating");
+        }
+        void brake(){
+            
+        System.out.println("Electric car is stopping");
+        }
+    }
+
     
 
