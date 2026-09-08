@@ -9,5 +9,7 @@ public class base {
         System.out.println(d);
         int f=b/a;
         System.out.println(f);
+        int sub=b-a;
+        System.out.println(sub);
     }
 }
