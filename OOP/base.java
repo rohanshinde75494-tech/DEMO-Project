@@ -7,5 +7,7 @@ public class base {
         System.out.println(c);
         int d=a*b;
         System.out.println(d);
+        int f=b/a;
+        System.out.println(f);
     }
 }
