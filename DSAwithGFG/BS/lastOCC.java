@@ -16,5 +16,7 @@ public class lastOCC {
             break;
         }
       }
+      System.out.println("code compiled succcessfully");
     }
+    
 }
