@@ -48,5 +48,6 @@ public class tewlwve {
 
         System.out.println();
     }
+    System.out.println("pattern priting complete");
 }
 }
