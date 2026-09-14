@@ -9,6 +9,7 @@ public class em {
         String clg=sc.nextLine();
         System.out.println("age : 21");
         System.out.println("marks : 94");
+        System.out.println("Friends name : krushna");
     }
     
 }
