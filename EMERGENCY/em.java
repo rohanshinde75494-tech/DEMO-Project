@@ -7,6 +7,7 @@ public class em {
         String s=sc.nextLine();
         System.out.println("Enter college name : ");
         String clg=sc.nextLine();
+        System.out.println("age : 21");
     }
     
 }
