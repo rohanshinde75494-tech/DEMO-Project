@@ -5,6 +5,8 @@ public class em {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter name : ");
         String s=sc.nextLine();
+        System.out.println("Enter college name : ");
+        String clg=sc.nextLine();
     }
     
 }
