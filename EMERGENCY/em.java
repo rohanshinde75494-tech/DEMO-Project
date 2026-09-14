@@ -11,6 +11,7 @@ public class em {
         System.out.println("marks : 94");
         System.out.println("Friends name : krushna");
         System.out.println("Friend college name : gcoey");
+        System.out.println("Friends age : 20");
     }
     
 }
