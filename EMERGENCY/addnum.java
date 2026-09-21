@@ -9,12 +9,15 @@ public class addnum {
 
         int[] arr = {3,5,6,7,34,21,45,3,22};
         for(int ele : arr){
-            System.out.println(ele);
+            System.out.print(ele + " ");
         }
 
+        System.out.println(" ");
         for(int i = 0 ; i < arr.length-1; i++){
             System.out.print("arr elements : " + " " + i);
         }
+
+        System.out.println(" ");
 
         int i = 0;
         while(i<arr.length-1){
