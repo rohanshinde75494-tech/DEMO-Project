@@ -21,7 +21,7 @@ public class addnum {
 
         int i = 0;
         while(i<arr.length-1){
-            System.out.println("Array ele: " +" " + i);
+            System.out.print("Array ele: " +" " + i);
             i ++;
         }
     }
