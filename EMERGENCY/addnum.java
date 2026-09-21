@@ -13,14 +13,14 @@ public class addnum {
         }
 
         System.out.println(" ");
-        for(int i = 0 ; i < arr.length-1; i++){
+        for(int i = 0 ; i < arr.length; i++){
             System.out.print(arr[i]+ " ");
         }
 
         System.out.println(" ");
 
         int i = 0;
-        while(i<arr.length-1){
+        while(i<arr.length){
             System.out.print(arr[i] + " ");
             i ++;
         }
