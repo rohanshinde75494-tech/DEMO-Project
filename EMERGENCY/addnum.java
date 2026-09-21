@@ -11,5 +11,9 @@ public class addnum {
         for(int ele : arr){
             System.out.println(ele);
         }
+
+        for(int i = 0 ; i < arr.length-1; i++){
+            System.out.println("arr elements : " + " ");
+        }
     }
 }
