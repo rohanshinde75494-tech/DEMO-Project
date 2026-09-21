@@ -17,6 +17,7 @@ class BankAccount{
     {
         balance-=amount;
     }
+    //getters/setters
     public double getbalance()
     {
         return balance;
