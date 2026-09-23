@@ -9,5 +9,12 @@ public class AUTOBOXING {
         int b=a;                  //unboxing
         System.out.println(a);
         System.out.println(b);
+
+         printInteger(b);
+       
     }
+     static void printInteger(Integer x)
+        {
+            System.out.println(x);
+        }
 }
