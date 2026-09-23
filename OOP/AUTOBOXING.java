@@ -12,8 +12,8 @@ public class AUTOBOXING {
 
         //  printInteger(b);
 
-        Integer x=10;
-        Integer y=10;
+        Integer x=200;
+        Integer y=200;
          System.out.println(x==y);
         System.out.println(x.equals(y));
        
