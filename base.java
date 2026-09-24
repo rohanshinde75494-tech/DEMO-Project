@@ -5,6 +5,7 @@ public class base {
         String str = "aman";
         System.out.println(str);
         String name = "Rohan";
+        System.out.println(name);
 
         
      }
