@@ -3,8 +3,9 @@ public class base {
         System.out.println("Demo project");
         System.out.println("Hi Rohan");
         String str = "aman";
+        System.out.println(str);
         String name = "Rohan";
-        
+
         
      }
 }
